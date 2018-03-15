@@ -10,8 +10,8 @@ tags:
 - Stack Network
 - Microsoft
 - Database
-created: "2018-03-10"
-modified: "2018-03-10"
+created: "2018-03-14"
+modified: "2018-03-14"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-sql-database/master/_listings/azure-sql-database/apis.yaml
 specificationVersion: "0.14"
 apis:
