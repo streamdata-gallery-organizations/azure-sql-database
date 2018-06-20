@@ -6,10 +6,10 @@ description: Make building and maintaining applications easier and more producti
   reliability, and data protection, SQL Database is a cloud database built for developers.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-sql-01-stop-worrying.png
 x-kinRank: "10"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Azure SQL Database
-created: "2018-05-24"
-modified: "2018-05-24"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-sql-database/master/_listings/azure-sql-database/apis.md
 specificationVersion: "0.14"
 apis:

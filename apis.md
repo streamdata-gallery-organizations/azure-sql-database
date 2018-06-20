@@ -5,7 +5,7 @@ description: This is a repository of azure sql database APIs, self-contained as 
   operations.
 image: http://template.streamdata.gallery/assets/azure-sql-database.png
 created: "2018-02-24"
-modified: "2018-05-24"
+modified: "2018-06-20"
 url: http://azure-sql-database.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
