@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Azure SQL Database",
+	"description": "This is a repository of azure sql database APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/azure-sql-database.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-29",
+	"url": "http://azure-sql-database.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Azure SQL Database",
+			"x-api-slug": "azure-sql-database",
+			"description": "Make building and maintaining applications easier and more productive. With built-in intelligence that learns app patterns and adapts to maximize performance, reliability, and data protection, SQL Database is a cloud database built for developers.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-sql-01-stop-worrying.png",
+			"humanURL": "https://azure.microsoft.com/en-us/services/sql-database/",
+			"baseURL": "://management.azure.com//",
+			"tags": "Azure SQL Database",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-sql-database/master/_listings/azure-sql-database/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Azure SQL Database",
+	"include": [
+		{
+			"name": "Azure SQL Database",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-sql-database/master/_listings/azure-sql-database/apis.yaml"
+		}
+	]
+}

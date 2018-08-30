@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: Azure SQL Database
 x-complete: 1
@@ -900,4 +899,3 @@ paths:
           description: OK
       tags:
       - Databases Transparent Data Encryption Activity
----
